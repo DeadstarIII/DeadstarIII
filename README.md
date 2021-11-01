@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello there! I am <strong>SHOWHEROGAMES AKA deadstar</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    Hello there! I am <strong>SHOWHEROGAMES AKA deadstar-</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
     I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
@@ -17,11 +17,11 @@
 &nbsp;
 <p align="center">
     <a href="https://github.com/SHOWHEROGAMES/">
-        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
+        <img src="./assets/github-solid.png" width="25px" />
     </a>
     &nbsp;
     <a href="https://discord.com/users/839174095727886386">
-        <img src="./assets/icons/other/discord-solid" width="25px" />
+        <img src="./assets/discord-solid.png" width="25px" />
     </a>
     &nbsp;
 <hr/>

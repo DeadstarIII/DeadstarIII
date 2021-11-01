@@ -2,7 +2,7 @@
     Hello there! I am <strong>SHOWHEROGAMES AKA deadstar-</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
+    I am a CS Student who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
 <br>
 <a href="https://github.com/SHOWHEROGAMES">

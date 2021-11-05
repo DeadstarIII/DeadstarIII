@@ -25,4 +25,4 @@
     </a>
     &nbsp;
 <hr/>
-[![deadstar's github stats](https://github-readme-stats.vercel.app/api?username=SHOWHEROGAMES)](https://github.com/anuraghazra/github-readme-stats)
+[![deadstar's github stats](https://github-readme-stats.vercel.app/api?username=SHOWHEROGAMES)](https://github.com/SHOWHEROGAMES/SHOWHEROGAMES)

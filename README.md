@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **idatenshow758@gmail.com**
 
-- ⚡ Fun fact **I am dumb and a kid learning ABCD**
+- ⚡ Fun fact **I am dumb kid learning ABCD**
 
 
 

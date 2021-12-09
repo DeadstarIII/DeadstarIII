@@ -1,6 +1,12 @@
 <h2 align="center">
     Hello there! I am <strong>SHOWHEROGAMES AKA deadstar-</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
+<center>
+<a href="https://discord.com/users/839174095727886386">
+        <img src="https://lanyard-profile-readme.vercel.app/api/839174095727886386?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px">
+ </a>
+ </center>
+ <center>
 <p align="center">
     I am a CS Student who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong></p>
 
@@ -31,7 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=showherogames&show_icons=true&locale=en" alt="showherogames" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showherogames&" alt="showherogames" /></p>
-<a href="https://discord.com/users/839174095727886386">
-        <img src="https://lanyard-profile-readme.vercel.app/api/839174095727886386?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
-    </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showherogames&" alt="showherogames" /></p></center>

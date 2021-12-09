@@ -10,9 +10,9 @@
 <p align="center">
     I am a CS Student who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=showherogames&label=Profile%20views&color=0e75b6&style=flat" alt="showherogames" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=showherogames&label=Profile%20views&color=0e75b6&style=flat" alt="showherogames" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=showherogames" alt="showherogames" /></a> </p>
+
 
 - 🔭 I’m currently working on **Ursina engine**
 

@@ -95,7 +95,7 @@
 </p>
 
 <h3 align="left">Frameworks : </h3>
-<p align="left"><a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./assets/dpy.svg" alt="dpy" width="40" height="40"/> </a>&nbsp;&nbsp;<a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./assets/dpy.svg" alt="dpy" width="40" height="40"/> </a>&nbsp;&nbsp;
+<p align="left"><a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./assets/dpy.jpg" alt="dpy" width="40" height="40"/> </a>&nbsp;&nbsp;<a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./assets/dpy.jpg" alt="dpy" width="40" height="40"/> </a>&nbsp;&nbsp;
 </p>
 
 

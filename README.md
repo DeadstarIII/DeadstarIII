@@ -97,8 +97,24 @@
 <h3 align="left">Frameworks : </h3>
 <p align="left"><a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./assets/dpy.jpg" alt="dpy" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;&nbsp;
 </p>
+<h3 align="left">Software : </h3>
+<p align="left">   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>&nbsp;&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;&nbsp;
+</p>
 
 
+<h3 align="left">Game Engine : </h3>
+<p align="left"><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>&nbsp;&nbsp;
+</p>
+
+
+
+<h3 align="left">Automation : </h3>
+<p align="left"><a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>&nbsp;&nbsp;
+</p>
+
+<h3 align="left">Other : </h3>
+<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;
+</p>
 
 
 

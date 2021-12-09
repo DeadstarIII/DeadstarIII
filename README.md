@@ -95,7 +95,7 @@
 </p>
 
 <h3 align="left">Frameworks : </h3>
-<p align="left"><a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./assets/dpy.jpg" alt="dpy" width="40" height="40"/> </a>&nbsp;&nbsp;<a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./assets/dpy.jpg" alt="dpy" width="40" height="40"/> </a>&nbsp;&nbsp;
+<p align="left"><a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./assets/dpy.jpg" alt="dpy" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;&nbsp;
 </p>
 
 

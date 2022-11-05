@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **discord.py**
 
-- 📫 How to reach me **idatenshow758@gmail.com**
+- 📫 How to reach me **deadstariii.nft@ud.me**
 
 - ⚡ Fun fact **I am dumb kid learning ABCD**
 

@@ -11,17 +11,17 @@
 
 
 
-- 🔭 I’m currently working on **Ursina engine**
+- 🔭 I’m currently working on **Mathematics, Educational stuff**
 
-- 🌱 I’m currently learning **nyxx, flutter, django**
+- 🌱 I’m coming back to programming **when I buy my new mac**
 
-- 🤝 I’m looking for help with **Unreal engine**
+- 🤝 I’m looking for help with **Nothing**
 
-- 💬 Ask me about **discord.py**
+- 💬 Ask me about **discord.py[OG, master], JS[Master]**
 
 - 📫 How to reach me **deadstariii.nft@ud.me**
 
-- ⚡ Fun fact **I am dumb kid learning ABCD**
+- ⚡ Fun fact **I am a dumb kid learning ABCD**
 
 
 <h3 align="left">Languages & Tools</h3>

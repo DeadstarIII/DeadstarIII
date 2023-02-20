@@ -11,7 +11,7 @@
 
 - <img src="./assets/telescope.png" height="17px" width="17px"/> I’m currently working on **Mathematics, Educational stuff**
 
-- <img src="./assets/mac.png" height="17px" width="17px" /> I’m coming back to programming **when I buy my new mac**
+- <img src="./assets/mac.png" height="12px" width="12px" /> I’m coming back to programming **when I buy my new mac**
 
 - <img src="./assets/handshake.png" height="17px" width="17px" /> I’m looking for help with **making frontend apps with database**
 

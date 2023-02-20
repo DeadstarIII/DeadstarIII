@@ -22,6 +22,8 @@
 - 📫 How to reach me **deadstariii.nft@ud.me**
 
 - ⚡ Fun fact **I am a dumb kid learning ABCD**
+ 
+- ⭐ Fun fact **Apple™ Fan**
 
 
 <h3 align="left">Languages & Tools</h3>

@@ -15,9 +15,9 @@
 
 - <img src="./assets/handshake.png" height="15px" width="15px" /> I’m looking for help with **Nothing**
 
-- 💬 Ask me about **discord.py[OG, master], JS[Master]**
+- <img src="./assets/speech.png" height="15px" width="15px" /> Ask me about **discord.py[OG, master], JS[Master]**
 
-- 📫 How to reach me **deadstariii.nft@ud.me**
+- <img src="./assets/mailbox.png" height="15px" width="15px" /> How to reach me **deadstariii.nft@ud.me**
 
 - ⚡ Fun fact **I am a dumb kid learning ABCD**
 

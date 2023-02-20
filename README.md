@@ -13,7 +13,7 @@
 
 - <img src="./assets/leaf.png" height="15px" width="15px" /> I’m coming back to programming **when I buy my new mac**
 
-- 🤝 I’m looking for help with **Nothing**
+- <img src="./assets/handshake.png" height="15px" width="15px" /> I’m looking for help with **Nothing**
 
 - 💬 Ask me about **discord.py[OG, master], JS[Master]**
 

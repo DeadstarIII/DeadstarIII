@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **Mathematics, Educational stuff**
+- <img src="./assets/telescope.png" height="15px" width="15px"/> I’m currently working on **Mathematics, Educational stuff**
 
 - 🌱 I’m coming back to programming **when I buy my new mac**
 

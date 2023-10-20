@@ -9,17 +9,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=showherogames&label=Profile%20views&color=0e75b6&style=flat" alt="showherogames" /> </p>
 
-- <img src="./assets/telescope.png" height="17px" width="17px"/> I’m currently working on **Mathematics, Educational stuff**
+- <img src="./assets/telescope.png" height="17px" width="17px"/> I’m currently working on **Mathematics, Educational stuff, Machine Learning, AI**
 
-- <img src="./assets/mac.png" height="17px" width="17px" /> I’m coming back to programming **when I buy my new monitor**
+- <img src="./assets/mac.png" height="17px" width="17px" /> I'm currently learning **Machine Learning**
 
-- <img src="./assets/handshake.png" height="17px" width="17px" /> I’m looking for help with **making frontend apps with database**
+- <img src="./assets/handshake.png" height="17px" width="17px" /> I’m looking for help with **Machine Learning**
 
-- <img src="./assets/speech.png" height="17px" width="17px" /> Ask me about **discord.py[OG, master], JS[Master]**
+- <img src="./assets/speech.png" height="17px" width="17px" /> Ask me about **WebDev, css, frontend dev**
 
-- <img src="./assets/mailbox.png" height="17px" width="17px" /> How to reach me **deadstariii.nft@ud.me**
+- <img src="./assets/mailbox.png" height="17px" width="17px" /> How to reach me **thedeadstariii (on <a href="https://discord.com/" target="_blank">discord </a>)**
 
-- <img src="./assets/horns.png" height="17px" width="17px" /> Fun fact **I am a dumb kid learning ABCD**
+- <img src="./assets/horns.png" height="17px" width="17px" /> Fun fact **I love Apple Silicon**
 
 - <img src="./assets/thunder.png" height="17px" width="17px" /> Fun fact **Apple™ Fan**
 

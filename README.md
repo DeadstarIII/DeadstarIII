@@ -5,7 +5,7 @@
  </center>
  <center>
 <p align="center">
-    I am a CS Student who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong></p>
+    I am a Student who aspires to live a peaceful in the near future, I am a student. I'm active on an app called <strong> <a href="https://discord.com">Discord</a></strong></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=showherogames&label=Profile%20views&color=0e75b6&style=flat" alt="showherogames" /> </p>
 

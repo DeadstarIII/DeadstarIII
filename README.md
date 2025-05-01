@@ -6,6 +6,8 @@
  <center>
 <p align="center">
     I am a Student who aspires to live a peaceful in the near future. I'm active on <strong> <a href="https://discord.com">Discord</a></strong></p>
+Ps : my discord got banned, add me here : thevixen3_
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=showherogames&label=Profile%20views&color=0e75b6&style=flat" alt="showherogames" /> </p>
 

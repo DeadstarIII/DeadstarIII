@@ -1,17 +1,17 @@
 <center>
-&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://discord.com/users/1350316452351316089">
-        <img src="https://lanyard-profile-readme.vercel.app/api/920971430588473386?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px">
+&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://discord.com/users/1354440496646324246">
+        <img src="https://api.lanyard.rest/v1/users/1354440496646324246?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px">
  </a>
  </center>
  <center>
 <p align="center">
-    I am a Student who aspires to live a peaceful in the near future. I'm active on <strong> <a href="https://discord.com">Discord</a></strong></p>
-Ps : my discord got banned, add me here : thevixen3_
+    I am a Student who aspires to live a peaceful in the near future. I'm active on <strong> <a href="https://discord.com/">Discord</a></strong></p>
+Ps : my discord got banned, add me here : _thedeadstariii
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=showherogames&label=Profile%20views&color=0e75b6&style=flat" alt="showherogames" /> </p>
 
-- <img src="./assets/mailbox.png" height="17px" width="17px" /> How to reach me **thedeadstariii (on <a href="https://discord.com/" target="_blank">discord </a>)**
+- <img src="./assets/mailbox.png" height="17px" width="17px" /> How to reach me **_thedeadstariii (on <a href="https://discord.com/" target="_blank">discord </a>)**
 
 
 <h3 align="left">Languages & Tools</h3>

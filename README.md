@@ -5,7 +5,7 @@
  </center>
  <center>
 <p align="center">
-    I am a Student who aspires to live a peaceful in the near future. I'm active on <strong> <a href="https://discord.com/">Discord</a></strong></p>
+    I am a Student who aspires to live a peaceful life in the near future. I'm active on <strong> <a href="https://discord.com/">Discord</a></strong></p>
 Ps : my discord got banned, add me here : thedmitryiii
 
 

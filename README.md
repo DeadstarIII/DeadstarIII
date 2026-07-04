@@ -1,6 +1,6 @@
 <center>
 &nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://discord.com/users/1354440496646324246">
-       <img src="https://lanyard-profile-readme.vercel.app/api/1354440496646324246?idleMessage=I%20don%27t%20want%20to%20become%20an%20engineer&borderRadius=25px">
+       <img src="https://lanyard-profile-readme.vercel.app/api/742986077228367935?idleMessage=Ich%20möchte%20Deutschland%20gehen&borderRadius=25px">
  </a>
  </center>
  <center>

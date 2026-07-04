@@ -13,9 +13,4 @@ add me here on discord : thedeadstariii
 
 - <img src="./assets/mailbox.png" height="17px" width="17px" /> How to reach me **_thedeadstariii (on <a href="https://discord.com/" target="_blank">discord </a>)**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadstariii&show_icons=true&locale=en&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadstariii&show_icons=true&locale=en" alt="deadstariii" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deadstariii&" alt="deadstariii" /></p>

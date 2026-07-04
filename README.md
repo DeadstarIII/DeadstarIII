@@ -8,6 +8,6 @@
     I am a human who aspires to live a peaceful life in the near future. I'm active on <strong> <a href="https://discord.com/">Discord</a></strong></p>
 add me here on discord : <a href="https://discord.com/742986077228367935" target="_blank">thedeadstariii </a>
 
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deadstariii&" alt="deadstariii" /></p>
  </center>

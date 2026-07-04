@@ -6,11 +6,7 @@
  <center>
 <p align="center">
     I am a human who aspires to live a peaceful life in the near future. I'm active on <strong> <a href="https://discord.com/">Discord</a></strong></p>
-add me here on discord : thedeadstariii
+add me here on discord : <a href="https://discord.com/742986077228367935" target="_blank">discord </a>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=showherogames&label=Profile%20views&color=0e75b6&style=flat" alt="showherogames" /> </p>
-
-- <img src="./assets/mailbox.png" height="17px" width="17px" /> How to reach me **_thedeadstariii (on <a href="https://discord.com/" target="_blank">discord </a>)**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deadstariii&" alt="deadstariii" /></p>
